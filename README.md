@@ -2,8 +2,11 @@
 Dados da Pesquisa de Expectativas de Mercado do Banco Central - BCB.
 
 No Jupyter Notebook comece por:
+
 `%run focus.py`
+
 `fc = Focus(time_expect="annual")`
+
 `focus = fc.get()`
 
 Veja alguns exemplos de uso em Boletim_Focus.ipynb.
