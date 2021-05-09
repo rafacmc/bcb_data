@@ -8,7 +8,8 @@ No Jupyter Notebook comece por:
 
 fc = Focus(time_expect="annual")
 
-focus = fc.get()```
+focus = fc.get()
+```
 
 Veja alguns exemplos de uso em Boletim_Focus.ipynb.
 
